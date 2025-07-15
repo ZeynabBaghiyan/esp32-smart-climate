@@ -75,16 +75,6 @@ This is a touch-enabled climate controller project built with an **ESP32**, feat
 4. Upload the code to your ESP32 board.
 5. Enjoy your smart controller!
 
-## 📁 File Structure
-.
-├── src/
-│ └── main.cpp
-├── data/
-│ └── *.jpg
-├── images/
-│ ├── lcd.jpg
-│ └── mobile.jpg
-└── README.md
 
 ## 🤝 Acknowledgments
 
