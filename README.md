@@ -63,7 +63,7 @@ This is a touch-enabled climate controller project built with an **ESP32**, feat
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/esp32-climate-controller.git
+    git clone https://github.com/ZeynabBaghiyan/esp32-smart-climate.git
     ```
 2. Open in Arduino IDE or PlatformIO.
 3. Update WiFi and MQTT credentials:
